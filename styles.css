@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: beige;
+}
+.textarea {
+  width: 40%;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px;
+}
+#preview {
+  background-color: white;
+  width: 60%;
+  height: 35vh;
+  border: 1px black solid;
+  margin: auto;
+  text-align: left;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px;
+  padding: 5px;
+  overflow: scroll;
+}
